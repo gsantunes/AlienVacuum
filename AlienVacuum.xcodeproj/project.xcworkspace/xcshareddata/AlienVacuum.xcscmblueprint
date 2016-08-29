@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "708E0EE450D1F3AB52C1B4E48E3AA1F19A8BA1D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "708E0EE450D1F3AB52C1B4E48E3AA1F19A8BA1D9" : 0,
+    "782532C091C4B7B6A49AB0AF63BF0B8549C07B73" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5336BA26-3B09-4DAD-8866-688503814A7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "708E0EE450D1F3AB52C1B4E48E3AA1F19A8BA1D9" : "alien\/",
+    "782532C091C4B7B6A49AB0AF63BF0B8549C07B73" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AlienVacuum",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AlienVacuum.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/gsantunes\/alien.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "708E0EE450D1F3AB52C1B4E48E3AA1F19A8BA1D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rafaelhieda\/mackMobile.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "782532C091C4B7B6A49AB0AF63BF0B8549C07B73"
+    }
+  ]
+}

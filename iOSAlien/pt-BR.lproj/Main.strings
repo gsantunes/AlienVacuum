@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Pressione para jogar"; ObjectID = "NNg-vU-wHM"; */
+"NNg-vU-wHM.normalTitle" = "Pressione aqui para jogar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hcm-C8-L40"; */
+"hcm-C8-L40.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xqv-Pv-TuP"; */
+"xqv-Pv-TuP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xuL-5v-PPi"; */
+"xuL-5v-PPi.text" = "Label";

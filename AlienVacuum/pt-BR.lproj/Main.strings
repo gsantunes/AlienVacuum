@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2yw-sg-wCG"; */
+"2yw-sg-wCG.text" = "Label";
+
+/* Class = "UILabel"; text = "description"; ObjectID = "3pw-0S-nlI"; */
+"3pw-0S-nlI.text" = "description";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4N1-Id-teC"; */
+"4N1-Id-teC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Hq-Hp-VKt"; */
+"7Hq-Hp-VKt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Pressione para jogar"; ObjectID = "7Qx-aS-nXn"; */
+"7Qx-aS-nXn.normalTitle" = "Pressione para jogar";
+
+/* Class = "UIButton"; normalTitle = "gastar power up"; ObjectID = "Bd1-x3-MqR"; */
+"Bd1-x3-MqR.normalTitle" = "gastar power up";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "Cd4-5I-cmL"; */
+"Cd4-5I-cmL.normalTitle" = "Buy";
+
+/* Class = "UILabel"; text = "$0.99"; ObjectID = "Shh-hj-Z04"; */
+"Shh-hj-Z04.text" = "$0.99";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "dF5-ES-kT1"; */
+"dF5-ES-kT1.text" = "title";
+
+/* Class = "UIButton"; normalTitle = "Puxar nuvem"; ObjectID = "qyB-Yu-nA1"; */
+"qyB-Yu-nA1.normalTitle" = "Puxar nuvem";
+
+/* Class = "UILabel"; text = "label level select"; ObjectID = "wYr-2V-lB2"; */
+"wYr-2V-lB2.text" = "Seleção de nível";
+
+/* Class = "UIButton"; normalTitle = "Store"; ObjectID = "zNC-Uk-u2i"; */
+"zNC-Uk-u2i.normalTitle" = "Store";
